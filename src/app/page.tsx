@@ -12,9 +12,6 @@ export default function Home() {
             ampla experiência em tecnologias como NodeJS e ReactJS.
           </p>
         </div>
-        <div className="card ">
-
-        </div>
       </main>
     </div>
   );
